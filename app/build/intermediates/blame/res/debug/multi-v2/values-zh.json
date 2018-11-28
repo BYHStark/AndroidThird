@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DELL\\Downloads\\MyClient3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-1\\files-1.1\\jiecaovideoplayer-5.8.1.aar\\822188c079fbdd615103b1bd6e1c4ad0\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,97,135,199,253",
+                        "endColumns": "41,37,63,53,54",
+                        "endOffsets": "92,130,194,248,303"
+                    }
+                }
+            ]
+        }
+    ]
+}

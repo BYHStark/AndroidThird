@@ -1,0 +1,9 @@
+Name：毕宇航
+Nomber：16301030
+实现方法：1.登陆注册：使用java，tomcat搭建服务器，接受来自安卓客户端的请求。
+	   点击登陆时：客户端post“login”信号，服务端接受，匹配用户名和密码
+	   点击注册时：客户端post“register”信号，服务端接受，保存用户名和密码
+	2.教练信息：使用recycler view和card view来实现，每个教练的名字显示在单独的小卡片上
+使用方法：使用eclipse运行tomcat，使服务器代码“Run on server”再”Run as application"，客户端需要先获取本机的ip地址，将log_in.java和register.java内的ipadress改成当前的IP地址才可用
+
+由于本次程序由本人独自完成，程序有所缺陷。请老师多多指教

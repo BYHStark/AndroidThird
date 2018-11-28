@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:2:1-72:12
+MERGED from [fm.jiecao:jiecaovideoplayer:5.8.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\jiecaovideoplayer-5.8.1.aar\822188c079fbdd615103b1bd6e1c4ad0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6c82babd67336ab041d69669f761b389\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\efb9ca5b23e555f8810987720460796a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\8bb9d447c19c449155b6a000cfb4db93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3f74c22dc4ec0ff04f4ab37367f45c7a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\582ab74109ae1e7b7c3f4ebb4879aef6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c7d3c39e87d5282e2604127536294122\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\35d1898a2ac13d995c4edfba2ea098a4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e5377ee321708cbaa14145ae8e5c30b7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fd9a17e3f0f92118c0731700718af6c1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ba4c513298d07c4ed6e2c70d9d0c932c\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from [fm.jiecao:jiecaovideoplayer:5.8.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\jiecaovideoplayer-5.8.1.aar\822188c079fbdd615103b1bd6e1c4ad0\AndroidManifest.xml:11:5-79
+MERGED from [fm.jiecao:jiecaovideoplayer:5.8.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\jiecaovideoplayer-5.8.1.aar\822188c079fbdd615103b1bd6e1c4ad0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:16:5-85
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:16:22-82
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:22:22-62
+application
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:24:5-70:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6c82babd67336ab041d69669f761b389\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6c82babd67336ab041d69669f761b389\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\efb9ca5b23e555f8810987720460796a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\efb9ca5b23e555f8810987720460796a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3f74c22dc4ec0ff04f4ab37367f45c7a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3f74c22dc4ec0ff04f4ab37367f45c7a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\582ab74109ae1e7b7c3f4ebb4879aef6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\582ab74109ae1e7b7c3f4ebb4879aef6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c7d3c39e87d5282e2604127536294122\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c7d3c39e87d5282e2604127536294122\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\35d1898a2ac13d995c4edfba2ea098a4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\35d1898a2ac13d995c4edfba2ea098a4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e5377ee321708cbaa14145ae8e5c30b7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e5377ee321708cbaa14145ae8e5c30b7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fd9a17e3f0f92118c0731700718af6c1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fd9a17e3f0f92118c0731700718af6c1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ba4c513298d07c4ed6e2c70d9d0c932c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ba4c513298d07c4ed6e2c70d9d0c932c\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:28:9-56
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:29:9-31:64
+	android:value
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:31:13-61
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:30:13-52
+service#com.baidu.location.f
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:32:9-39:19
+	android:process
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:35:13-38
+	android:enabled
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:34:13-35
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:33:13-48
+intent-filter#action:name:com.baidu.location.service_v2.2
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:36:13-38:29
+action#com.baidu.location.service_v2.2
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:37:25-71
+activity#com.example.myclient.LogIn
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:40:9-47:20
+	android:label
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:41:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.example.myclient.Personal
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:49:13-57
+activity#com.example.myclient.Register
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:53:13-57
+activity#com.example.myclient.ListActivity
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:56:9-57:20
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:56:19-67
+activity#com.example.myclient.PlayActivity
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:screenOrientation
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:58:19-47
+activity#com.example.myclient.Index
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:62:9-65:20
+	android:label
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:63:13-54
+activity#com.example.myclient.Map
+ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:66:9-69:20
+	android:label
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml:67:13-52
+uses-sdk
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+MERGED from [fm.jiecao:jiecaovideoplayer:5.8.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\jiecaovideoplayer-5.8.1.aar\822188c079fbdd615103b1bd6e1c4ad0\AndroidManifest.xml:7:5-9:41
+MERGED from [fm.jiecao:jiecaovideoplayer:5.8.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\jiecaovideoplayer-5.8.1.aar\822188c079fbdd615103b1bd6e1c4ad0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6c82babd67336ab041d69669f761b389\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6c82babd67336ab041d69669f761b389\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\efb9ca5b23e555f8810987720460796a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\efb9ca5b23e555f8810987720460796a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\8bb9d447c19c449155b6a000cfb4db93\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\8bb9d447c19c449155b6a000cfb4db93\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3f74c22dc4ec0ff04f4ab37367f45c7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3f74c22dc4ec0ff04f4ab37367f45c7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\582ab74109ae1e7b7c3f4ebb4879aef6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\582ab74109ae1e7b7c3f4ebb4879aef6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c7d3c39e87d5282e2604127536294122\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c7d3c39e87d5282e2604127536294122\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\35d1898a2ac13d995c4edfba2ea098a4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\35d1898a2ac13d995c4edfba2ea098a4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e5377ee321708cbaa14145ae8e5c30b7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e5377ee321708cbaa14145ae8e5c30b7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fd9a17e3f0f92118c0731700718af6c1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fd9a17e3f0f92118c0731700718af6c1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ba4c513298d07c4ed6e2c70d9d0c932c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ba4c513298d07c4ed6e2c70d9d0c932c\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\Downloads\MyClient3\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6c82babd67336ab041d69669f761b389\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6c82babd67336ab041d69669f761b389\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3f74c22dc4ec0ff04f4ab37367f45c7a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3f74c22dc4ec0ff04f4ab37367f45c7a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\582ab74109ae1e7b7c3f4ebb4879aef6\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\582ab74109ae1e7b7c3f4ebb4879aef6\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c7d3c39e87d5282e2604127536294122\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c7d3c39e87d5282e2604127536294122\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\35d1898a2ac13d995c4edfba2ea098a4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\35d1898a2ac13d995c4edfba2ea098a4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e5377ee321708cbaa14145ae8e5c30b7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e5377ee321708cbaa14145ae8e5c30b7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fd9a17e3f0f92118c0731700718af6c1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\fd9a17e3f0f92118c0731700718af6c1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ba4c513298d07c4ed6e2c70d9d0c932c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ba4c513298d07c4ed6e2c70d9d0c932c\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\a2e279d7da69c71c00fc9d4fa6f1cd79\AndroidManifest.xml:26:9-47
