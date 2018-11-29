@@ -1,9 +1,7 @@
-Name£º±ÏÓîº½
-Nomber£º16301030
-ÊµÏÖ·½·¨£º1.µÇÂ½×¢²á£ºÊ¹ÓÃjava£¬tomcat´î½¨·þÎñÆ÷£¬½ÓÊÜÀ´×Ô°²×¿¿Í»§¶ËµÄÇëÇó¡£
-	   µã»÷µÇÂ½Ê±£º¿Í»§¶Ëpost¡°login¡±ÐÅºÅ£¬·þÎñ¶Ë½ÓÊÜ£¬Æ¥ÅäÓÃ»§ÃûºÍÃÜÂë
-	   µã»÷×¢²áÊ±£º¿Í»§¶Ëpost¡°register¡±ÐÅºÅ£¬·þÎñ¶Ë½ÓÊÜ£¬±£´æÓÃ»§ÃûºÍÃÜÂë
-	2.½ÌÁ·ÐÅÏ¢£ºÊ¹ÓÃrecycler viewºÍcard viewÀ´ÊµÏÖ£¬Ã¿¸ö½ÌÁ·µÄÃû×ÖÏÔÊ¾ÔÚµ¥¶ÀµÄÐ¡¿¨Æ¬ÉÏ
-Ê¹ÓÃ·½·¨£ºÊ¹ÓÃeclipseÔËÐÐtomcat£¬Ê¹·þÎñÆ÷´úÂë¡°Run on server¡±ÔÙ¡±Run as application"£¬¿Í»§¶ËÐèÒªÏÈ»ñÈ¡±¾»úµÄipµØÖ·£¬½«log_in.javaºÍregister.javaÄÚµÄipadress¸Ä³Éµ±Ç°µÄIPµØÖ·²Å¿ÉÓÃ
+Nameï¼šæ¯•å®‡èˆª
+Nomberï¼š16301030
+å®žçŽ°æ–¹æ³•ï¼š1.ç™¾åº¦åœ°å›¾ï¼šæ³¨å†Œç™¾åº¦è´¦å·ï¼ŒèŽ·å–APKå’Œåœ°å›¾APIï¼Œåœ¨build.gradelä¸­èŽ·å–æƒé™ã€‚
+	2.è§†é¢‘æ’­æ”¾ï¼šmedia playeræŠ€æœ¯çš„åº”ç”¨
 
-ÓÉÓÚ±¾´Î³ÌÐòÓÉ±¾ÈË¶À×ÔÍê³É£¬³ÌÐòÓÐËùÈ±ÏÝ¡£ÇëÀÏÊ¦¶à¶àÖ¸½Ì
+
+ç”±äºŽæœ¬æ¬¡ç¨‹åºç”±æœ¬äººç‹¬è‡ªå®Œæˆï¼Œç¨‹åºæœ‰æ‰€ç¼ºé™·ã€‚è¯·è€å¸ˆå¤šå¤šæŒ‡æ•™
